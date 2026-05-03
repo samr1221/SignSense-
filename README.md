@@ -43,6 +43,7 @@ The system captures live video input and detects hand landmarks using MediaPipe.
 
 ## 📷 Demo
 
-(Add screenshots or GIF here)
+![Project Demo](demo.png)
+
 
 ---
